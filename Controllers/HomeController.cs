@@ -10,6 +10,7 @@ namespace ClothBazar.Controllers
     {
         public ActionResult Index()
         {
+
             return View();
         }
 
